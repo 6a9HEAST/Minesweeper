@@ -9,6 +9,7 @@ using System.Drawing;
 namespace MineSweeper2
 {
     [Serializable]
+    // НЕГРЫ АХХААХХА
     public class BombCounter
     {
         private int bombs;
